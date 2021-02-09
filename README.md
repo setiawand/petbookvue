@@ -1,5 +1,7 @@
 # petbookvue
 
+Artikel dapat dibaca melalui link ini https://www.denisetiawan.me/2021/02/mudah-belajar-vue-js-coding-hingga.html
+
 ## Project setup
 ```
 yarn install
